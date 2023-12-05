@@ -1,14 +1,14 @@
 { 
-  "name": "XLICON MD",
+  "name": "Zara Khan",
   "description": "A Whatsapp md bot built in NodeJs to make experience better",
-  "logo": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg",
+  "logo": "https://i.imgur.com/C1p1pVI.jpg",
   "keywords": ["nodejs", "bot", "whatsapp bot", "Zero-Two", "Xlicon Bot", "Xlicon","Xlicon MD","theme bot","multi device","baileys"],
   "success_url": "/",
   "stack": "container",
 "env": {
   "OWNER_NAME": {
   "description": "BOT OWNER NAME",
-      "value": "Salman Ahmad"
+      "value": "Zara Khan"
   },
   "ALIVE_MESSAGE": {
     "description": " SET YOUR ALIVE MESSAGE FOR THE BOT",
@@ -33,7 +33,7 @@
     },
    "THUMB_IMAGE": {
     "description": "THUMBNAIL for bot.",
-     "value": "https://telegra.ph/file/3c341828d86ee7a89c73f.jpg"
+     "value": "https://i.imgur.com/C1p1pVI.jpg"
     },
     "ANTI_BAD_WORD": {
     "description": "Put words here. If you want it enabled in your bot otherwise leave it blank",
@@ -70,9 +70,9 @@
   },
   "OWNER_NUMBER": {
     "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-       "value": "Put Owner Number here"
+       "value": "994403816355"
   },
-   "SESSION_ID": {
+   "SESSION_ID": {XLICON-MD;;;eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiV0h6bVJHaDcvbE9pWEpCbWVuK1RKMllIeVBJYkswR2lzWFpWWTNDK3Nucz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiKzFkSXh2SlZMZFpmZC80UFZ2czNQWEZwUWQ0RkZHUkhzbWdvbEREYzgzVT0ifX0sInNpZ25lZElkZW50aXR5S2V5Ijp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDREZTOWZBNGc0OXVLOUhJenZEVFpPTHpvTFZLc2NVNlhvbDQ0WFYyeUhBPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIvSGVBaE5XUFMzMzhNbVhWeGtneVlxOW14ZWphbDFKOHBMZ0pmRThPQWg0PSJ9fSwic2lnbmVkUHJlS2V5Ijp7ImtleVBhaXIiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InFJZFFWR3YyZzdzNmdZWHpSazVSUFRBemNWeTlGV0p4OEt6azRJUmh5WFU9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFTL2VzRVJvYmlQQTNJYjEwZjJXM0RubDMvZmVuSS9WVTYvUlgzZTdtVDg9In19LCJzaWduYXR1cmUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJzdDNwY05yYjROMUNVQkdaemhqbThXZHdlMXVCNHVNTHFPS2hSMHQ3cGE1elNsZGVCeGxuVWFGZlBKU0ZrTkZhTG1vVWZxY1IrWHAxVGJ6ZGx3UGdnQT09In0sImtleUlkIjoxfSwicmVnaXN0cmF0aW9uSWQiOjIzNiwiYWR2U2VjcmV0S2V5IjoiVWdTbGNuaWc5K2ZGU0VGOG1ud1ZnU2NwOHVOaEFhbmRqaCt5M0ZVRlZEWT0iLCJwcm9jZXNzZWRIaXN0b3J5TWVzc2FnZXMiOltdLCJuZXh0UHJlS2V5SWQiOjMxLCJmaXJzdFVudXBsb2FkZWRQcmVLZXlJZCI6MzEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sImRldmljZUlkIjoieUFCQWV5dHRSeVdiQjJqMk44anBxQSIsInBob25lSWQiOiI0YzYxZTU1NC03Y2M3LTQwNmEtOTJlMC00ODExZjc1YzQyOTUiLCJpZGVudGl0eUlkIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiWktHTzBJc3FpZEs3LzgxblVvdDRSdXNLczY0PSJ9LCJyZWdpc3RlcmVkIjpmYWxzZSwiYmFja3VwVG9rZW4iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDVXkycDJyVG41U2FiMVFjWUp4MFRqVkZFMTg9In0sInJlZ2lzdHJhdGlvbiI6e30sImFjY291bnQiOnsiZGV0YWlscyI6IkNMQ2F6ZXdFRUxmMm9xc0dHQUU9IiwiYWNjb3VudFNpZ25hdHVyZUtleSI6IjZUWG1OSnEwanZzdVYvVmZFQnk4dmNRbU5JNjR6ZWUzQnBob3pSaHRiMGs9IiwiYWNjb3VudFNpZ25hdHVyZSI6InJMdUlQbjJBZHJlYUpuUnhjU04wVUhsUVNWRU9jeWlCa2VZbnVFNzhiWm5DTTRGVzQ3REJQV1dQL216d09lZmhFNTJIUVRYcU9SbFFxOFM2UVYzZEJRPT0iLCJkZXZpY2VTaWduYXR1cmUiOiJETFBEeGpNSVZhc1BkM3VjTEdqcHo2SkFBZStDMzZSVzBZY1pvcjdudXhkNktUKzJTSjR3cUZ0U0U0Tms4bTdnd1YvMm8vczhKTzBYSnFJSjZkejlpZz09In0sIm1lIjp7ImlkIjoiOTk0NDAzODE2MzU1OjhAcy53aGF0c2FwcC5uZXQifSwic2lnbmFsSWRlbnRpdGllcyI6W3siaWRlbnRpZmllciI6eyJuYW1lIjoiOTk0NDAzODE2MzU1OjhAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZWsxNWpTYXRJNzdMbGYxWHhBY3ZMM0VKalNPdU0zbnR3YVlhTTBZYlc5SiJ9fV0sInBsYXRmb3JtIjoiYW5kcm9pZCIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTcwMTM2MjQ5MH0=
     "description": "Please put your Session ID that u scanned from the bot.... If u haven't scanned go to XLICON-MD Github Repo U can find the Scanner Option"
   },
     "OPENAI_API_KEY": {
@@ -103,7 +103,7 @@
     "value": "",
     "required" :true
   },
-  "PACK_NAME": {
+  "PACK_NAME": {Zara-Khan
     "description": "PUT STICKER PACK NAME",
     "value": "",
     "required" :true
